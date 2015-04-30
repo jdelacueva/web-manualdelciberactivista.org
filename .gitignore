@@ -1,0 +1,4 @@
+doc
+_output
+fabfile.py
+*.pyc
