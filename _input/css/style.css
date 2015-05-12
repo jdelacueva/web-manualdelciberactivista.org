@@ -303,3 +303,8 @@ p.topic-title {
 #contenido li {
     line-height: 1.75em;
   }
+
+img {
+    float: left;
+    padding-right: 1em;
+}

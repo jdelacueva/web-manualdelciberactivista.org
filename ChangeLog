@@ -1,3 +1,9 @@
+2015-05-12  Javier de la Cueva  <jdelacueva@derecho-internet.org>
+
+	* _input/index.html: Inclusión de la portada del libro.
+
+	* _templates/base.html Inclusión de meta viewport.
+
 2015-05-07  Javier de la Cueva  <jdelacueva@derecho-internet.org>
 
 	* _input/index.html Incorporación de datos de Bandaàparte
