@@ -206,7 +206,8 @@ ul.posts {
 }
 
 .menu {
-    color:8e8e8e;
+    color: 8e8e8e;
+    padding: 0.5em
 }
 
 .menu ul {
@@ -308,3 +309,6 @@ img {
     float: left;
     padding-right: 1em;
 }
+
+dd {padding: 0 0 0.5em 2em;
+   }

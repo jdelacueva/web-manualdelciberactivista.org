@@ -1,3 +1,28 @@
+2015-05-18  Javier de la Cueva  <jdelacueva@derecho-internet.org>
+
+	* _input/enlaces/index.rst Creación directorio
+
+	* _input/archivos/index.rst Creación directorio
+
+	* Redireccionamiento enlaces.rst a /enlaces/index.rst
+
+	* Redireccionamiento archivos.rst a /archivos/index.rst
+
+2015-05-16  Javier de la Cueva  <jdelacueva@derecho-internet.org>
+
+	* _input/archivos/2015-05-15_referencias_manualdelciberactivista.pdf
+
+2015-05-15  Javier de la Cueva  <jdelacueva@derecho-internet.org>
+
+	* _templates/base.html Inclusión de menú de navegación.
+
+	* _input/enlaces.rst Creación de página.
+
+	* _input/archivos.rst Creación de página.
+
+	* _input/index.html (Acto de presentación): Inclusión de datos
+	sobre la presentación.
+
 2015-05-12  Javier de la Cueva  <jdelacueva@derecho-internet.org>
 
 	* _input/index.html: Inclusión de la portada del libro.
