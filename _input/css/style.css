@@ -202,7 +202,7 @@ ul.posts {
     border: 1px solid #bbb;
     background: #e0e0e0;
     float: left;
-    margin-bottom:20px;
+    margin-bottom:1em;
 }
 
 .menu {
@@ -223,9 +223,9 @@ ul.posts {
 .menu li a{
     display:block;
     font-weight: none;
-    line-height: 20px;
+    line-height: 10px;
     margin-top: 0;
-    padding: 10px 15px;
+    padding: 10px 10px;
     text-align:center;
     text-decoration:none;
 }
@@ -288,27 +288,41 @@ p.topic-title {
     padding: 1em 0 0 1em;
 }
 
-#contenido {
-    width: 100%;
-    background: #eeeeff;
-    border: 1px solid #ccc;
-    padding-bottom:20px;
-    margin-bottom:20px;
+#content {
+    padding: 1em;
 }
 
-#contenido ul, #contenido ul ul {
+#content ul, #content ul ul {
   list-style-type: none;
   margin-bottom: 0em;
 }
 
-#contenido li {
+#content li {
     line-height: 1.75em;
   }
 
-img {
+#content h1 {
+    padding-top: 2em;
+    color: #666;
+}
+
+img.left {
     float: left;
     padding-right: 1em;
 }
 
 dd {padding: 0 0 0.5em 2em;
    }
+
+blockquote.twitter-tweet {
+    background: #eee;
+    text-align:center;
+    display:block;
+    padding: 1em;
+}
+
+.centeredImage
+    {
+    text-align:center;
+    display:block;
+    }

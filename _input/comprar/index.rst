@@ -1,4 +1,4 @@
-title: Dónde comprar el Manual del ciberactivista.
+title: Dónde comprar el Manual del ciberactivista
 template: default.html
 
 Para comprar el Manual del ciberactivista diríjase a Bandaaparte
