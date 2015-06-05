@@ -2,20 +2,34 @@ title: Calendario de eventos
 template: default.html
 
 Eventos programados
+===================
+
+25-06-2015: Córdoba
 -------------------
 
-05-06-2015: Firma en la Feria del Libro de Madrid
-=================================================
+Se confirmarán lugares y horario.
 
+18-06-2015: Zaragoza
+--------------------
+
+Se confirmarán lugares y horario.
+
+05-06-2015: Firma en la Feria del Libro de Madrid
+-------------------------------------------------
+
+.. image:: /img/2015-feria-del-libro.jpg
+   :scale: 100%
+   :width: 300px
+        
 Javier de la Cueva firmará ejemplares del Manual del Ciberactivista el
-viernes 5 de junio de 18:00 a 20:00 en la caseta nº 260: Sin Tarima
+viernes 5 de junio de 18:00 a 20:00 en la caseta nº 260: Con Tarima
 Libros.
 
 Eventos pasados
----------------
+===============
 
 27-05-2015: Acto de presentación
-================================
+--------------------------------
 
 El libro se presentó en sociedad el día 27 de mayo de 2015, a las
 19:30 horas, en `La Central de Callao`_, Madrid. Fueron los padrinos

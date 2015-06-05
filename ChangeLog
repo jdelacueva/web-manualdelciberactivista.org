@@ -1,3 +1,13 @@
+2015-06-04  Javier de la Cueva  <jdelacueva@derecho-internet.org>
+
+	* _input/making-of/index.rst Creación página making-of
+
+    * _input/piratear/index.rst Creación página piratear
+
+	* _templates/base.html Nuevas pestañas:
+	- ¡Piratear!
+	- Making-of
+
 2015-05-29  Javier de la Cueva  <jdelacueva@derecho-internet.org>
 
 	* _input/calendario/index.rst (title): Creación página de

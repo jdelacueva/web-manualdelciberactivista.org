@@ -1,9 +1,12 @@
 title: Enlaces contenidos en el libro
 template: default.html
 
-Para facilitar la consulta de los ejemplos citados en el libro se
-relacionan a continuación todos los enlaces incluidos en el mismo, con
-indicación de la página en la que aparecen.
+Nuestra recomendación es que mientras que usted lee el libro, vaya
+consultando los enlaces que le indicamos en el mismo.
+
+Para facilitarle su consulta, a continuación se relacionan todos los
+enlaces incluidos en el libro, con indicación de la página en la que
+aparecen.
 
 Prefacio
 ========
