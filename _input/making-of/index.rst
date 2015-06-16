@@ -67,11 +67,11 @@ cuestiones jurídicas y la propuesta de procedimiento.
 
 Nuevamente el 26 de marzo de 2015 se pudo continuar con el original.
 Se puso otro plazo: la entrega se haría como más tarde el día 1 de
-abril, justo antes de las vacaciones de Semana. Nuevas tareas ajenas
-lo impidieron, esta vez la corrección de ejercicios de alumnos. Y, por
-fin, el domingo día 12 de abril el original estuvo listo. Se envió
-tanto al editor como a diecisiete personas más. A estas últimas como
-un regalo envenenado.
+abril, justo antes de las vacaciones de Semana Santa. Nuevas tareas
+ajenas lo impidieron, esta vez la corrección de ejercicios de alumnos.
+Y, por fin, el domingo día 12 de abril el original estuvo listo. Se
+envió tanto al editor como a diecisiete personas más que pudieran dar
+su opinión del libro desde diferentes perspectivas.
 
 Abusando y poniendo en peligro la amistad, a estas `diecisiete
 personas`_ se les pidió, nada menos, que revisaran y criticasen el

@@ -14,4 +14,4 @@ Mientras tanto, dispone de los siguientes archivos para su descarga:
  
 .. _Indice, prefacio e introducción: 2015-05-14_introduccion_manualdelciberactivista.pdf
 .. _Referencias bibliográficas: 2015-05-14_referencias_manualdelciberactivista.pdf
-.. _Dossier de prensa: 2015-06-15_dossier-de-prensa_manualdelciberactivista.pdf
+.. _Dossier de prensa: 2015-06-16_manual-del-ciberactivista_dossier-prensa.pdf
